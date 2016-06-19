@@ -1,5 +1,5 @@
 {
-  "name": "niceforbear/StrParser",
+  "name": "niceforbear/sparser",
   "type": "library",
   "minimum-stability": "stable",
   "description": "parser of string",
@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "niceforbear\\StrParser\\": "src/"
+      "niceforbear\\sparser\\": "src/"
     }
   }
 }
