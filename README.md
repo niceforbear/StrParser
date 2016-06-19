@@ -5,7 +5,7 @@
 Via Composer
 
 ``` bash
-$ composer require niceforbear/StrParser
+$ composer require niceforbear/sparser
 ```
 
 ## Usage
