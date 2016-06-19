@@ -4,7 +4,7 @@
  * @date 16/6/19 下午3:02
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 /**
  * Scanner自身并不直接操作文件或字符串, 而是用Reader对象来代替自己执行操作.

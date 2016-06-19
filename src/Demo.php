@@ -7,7 +7,7 @@
 $input = 'five';
 $statement = "( \$input equals 'five')";
 
-$engine = new \niceforbear\StrParser\MarkParse($statement);
+$engine = new \niceforbear\sparser\MarkParse($statement);
 $result = $engine->evaluate($input);
 print "input: $input evaluating: $statement\n";
 if($result){

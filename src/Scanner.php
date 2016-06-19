@@ -4,7 +4,7 @@
  * @date 16/6/18 下午1:52
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 /**
  * 要解析一条语句, 必须先将它拆分成一些单词和字符(令牌).

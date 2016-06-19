@@ -4,7 +4,7 @@
  * @date 16/6/19 下午4:28
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 
 class SequenceParse extends CollectionParse

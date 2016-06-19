@@ -4,7 +4,7 @@
  * @date 16/6/19 下午3:02
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 class ScannerState
 {

@@ -4,7 +4,7 @@
  * @date 16/6/19 下午5:31
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 
 class VariableHandler implements Handler

@@ -4,7 +4,7 @@
  * @date 16/6/19 下午5:34
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 
 class BooleanOrHandler implements Handler

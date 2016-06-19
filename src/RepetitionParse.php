@@ -4,7 +4,7 @@
  * @date 16/6/19 下午4:31
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 
 class RepetitionParse extends CollectionParse

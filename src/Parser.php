@@ -4,7 +4,7 @@
  * @date 16/6/19 下午3:07
  */
 
-namespace niceforbear\StrParser;
+namespace niceforbear\sparser;
 
 /**
  * Parser首先调用抽象的doScan方法, 把工作委托给具体的子类.
