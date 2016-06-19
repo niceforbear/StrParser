@@ -1,0 +1,33 @@
+{
+  "name": "niceforbear/StrParser",
+  "type": "library",
+  "minimum-stability": "stable",
+  "description": "parser of string",
+  "keywords": ["tool", "basic", "parser", "string"],
+  "homepage": "https://github.com/niceforbear",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "niceforbear",
+      "homepage": "https://github.com/niceforbear",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "niceforbear@foxmail.com"
+  },
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "require-dev": {
+
+  },
+  "suggest": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "niceforbear\\StrParser\\": "src/"
+    }
+  }
+}
